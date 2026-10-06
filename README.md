@@ -35,7 +35,7 @@ A stunning, animated portfolio website built with **Flutter Web** showcasing my 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yuvaraj133433-tech/yuvaraj-portfolio.git
+git clone https://github.com/Yuvaraj-2407/yuvaraj-portfolio.git
 
 # Navigate to project directory
 cd yuvaraj-portfolio
